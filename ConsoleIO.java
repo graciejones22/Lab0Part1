@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Console I/O example
  *
- * @author YOUR NAME
+ * @author Gracie Jones
  */
 public class ConsoleIO
 {
